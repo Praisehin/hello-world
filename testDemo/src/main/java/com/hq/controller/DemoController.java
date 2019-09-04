@@ -17,5 +17,8 @@ public class DemoController {
 	public void show4() {
 		System.out.println("上传");
 	}
+	public void show5() {
+		System.out.println("上传测试");
+	}
 	
 }
